@@ -2,7 +2,7 @@
 
 ## 背景
 
-鉴于 @efroemling/ballisica 最近的修改和矢一样的，
+鉴于 [Eric](https://github.com/efroemling/) 最近对Ballitica的修改和矢一样的，
 
 (比如闲的没事把bastd整个改成了bascenev1lib)
 
