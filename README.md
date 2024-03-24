@@ -2,7 +2,7 @@
 
 ## 背景
 
-鉴于 froemling 矢一样的对ba的修改，
+鉴于 @efroemling/ballisica 最近的修改和矢一样的，
 
 (比如闲的没事把bastd整个改成了bascenev1lib)
 
